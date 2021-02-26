@@ -1,0 +1,8 @@
+mx\com\gm\service\LibroServiceRS.class
+mx\com\gm\web\CorsFilter.class
+com\mycompany\prueba_cobis_back\JAXRSConfiguration.class
+com\mycompany\prueba_cobis_back\resources\JavaEE8Resource.class
+mx\com\gm\data\LibroData.class
+mx\com\gm\web\JAXRSActivator.class
+mx\com\gm\domain\Libro.class
+mx\com\gm\data\LibroDataImpl.class
